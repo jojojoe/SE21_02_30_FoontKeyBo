@@ -1,0 +1,7 @@
+FKBymFoontKeyBo.xcodeproj/xcuserdata/
+FKBymFoontKeyBo.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+FKBymFoontKeyBo.xcodeproj/project.xcworkspace/xcuserdata/
